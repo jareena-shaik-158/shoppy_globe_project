@@ -1,0 +1,28 @@
+.product-detail {
+    text-align: center;
+    padding: 20px;
+}
+
+.product-detail img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.add-btn {
+    background: #ff5722;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-btn:hover {
+    background: #e64a19;
+}
